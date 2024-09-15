@@ -1,0 +1,43 @@
+
+.cabecalho{
+    font-family: "Oswald", sans-serif;
+    font-size: 25px;
+    background-color: black;
+    text-align: left;
+    color: white;
+    padding-left: 60px;
+}
+
+.conteudo{
+    margin: 0%;
+    color: white;
+    padding-left: 50px;
+    text-align: left;
+    padding-right: 800px;
+}
+
+body{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 20px;
+    background-color: black;
+}
+
+.ft{
+    border-radius: 53%;
+    position: absolute;
+    size: 10%;
+    top: 100px;
+    margin-left: 60%;
+    width: 28vw;
+    cursor: pointer;
+    border: 10px solid red;
+}
+
+.videos {
+    text-align: left;
+}
+  
+.videos blockquote {
+    margin-top: 30px;
+    margin-left: 150px;
+}
